@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omptionder.github.io/sitemap
+Sitemap: https://omptionder.github.io/app/sitemap
+Sitemap: https://omptionder.github.io/assets/sitemap
+Sitemap: https://omptionder.github.io/css/sitemap
+Sitemap: https://omptionder.github.io/includes/sitemap
+Sitemap: https://omptionder.github.io/item/sitemap
+Sitemap: https://omptionder.github.io/src/sitemap
